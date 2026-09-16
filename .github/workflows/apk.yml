@@ -29,8 +29,4 @@ jobs:
           ./gradlew assembleDebug
 
       - name: Upload APK
-        uses: actions/upload-artifact@v4
-        with:
-          name: MaxCity-Roleplay-APK
-          path: android/app/build/outputs/apk/debug/*.apk
-          
+        uses: actions/upl
