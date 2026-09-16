@@ -1,0 +1,10 @@
+{
+  "servers": [
+    {
+      "name": "Max City Roleplay",
+      "ip": "142.132.203.47",
+      "port": 14897,
+      "maxplayers": 50
+    }
+  ]
+}
